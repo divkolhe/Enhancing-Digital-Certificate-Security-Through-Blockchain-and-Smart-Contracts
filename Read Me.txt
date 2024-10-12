@@ -1,0 +1,50 @@
+Dear Reader,
+
+Our Team wanted to take a moment to express sincere gratitude for the opportunity to work with you on this project. Your feedback and collaboration throughout the development process have been invaluable, and We are proud of what we were able to accomplish together.
+
+Thank you for entrusting us with this project and for your ongoing support and encouragement. We hope this system proves to be a valuable tool for your organization and that it helps you achieve your goals.
+
+If you have any questions or concerns, please don't hesitate to reach out to Project Manager <Mr. Vedant A. Sawant>. It's been a pleasure working with you, and We hope we have the opportunity to work together again in the future.
+
+Now, here are the instructions for running the Enhancing Digital Certificate Security through Blockchain and Smart Contracts Project:
+
+>> IMPORTANT LINKS 
+NODE JS Download:
+https://nodejs.org/en/download
+
+MetaMask Extension Download:
+https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
+
+Remix IDE Link:
+https://remix.ethereum.org/
+
+Mumbai Faucet Link: 
+https://mumbaifaucet.com/
+
+VS Code IDE Download:
+https://code.visualstudio.com/download
+
+VS Code Live Server Extension:
+Id: ritwickdey.LiveServer
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+>> To run the Enhancing Digital Certificate Security through Blockchain and Smart Contracts Project, you need to have a node installed on your computer. We recommend Node for the same. Download Node Using Link:
+NODE:
+https://nodejs.org/dist/v20.11.0/node-v20.11.0-x64.msi
+
+Once you have Node running, follow these steps:
+1. Extract the downloaded file.
+2. In Folder Use command 'npm start' / 'start npm' to install node modules.
+3. Open the application in your browser using Liver Server Extension in VS Code.
+4. The owner of the system must first add an exporter to the list of authorized parties. This is done by clicking on the "Add Exporter" button and entering the exporter's Ethereum address.
+5. Upload a document to the system by clicking on the "Upload Document" button and selecting a file from your computer. The document will be encrypted and stored in the IPFS network, and its hash will be recorded in the Blockchain.
+6. Verify a document by clicking on the "Verify Document" button and entering its unique identifier (hash) in the input field. The system will retrieve the document from the IPFS network, decrypt it, and compare its hash with the one recorded in the Blockchain.
+7. The system will display a message indicating whether the document is authentic or not.
+
+Please note that this project was prepared by Mr. Vedant Sawant in collaboration with OnBoard Services. You can contact Mr. Sawant at +91 9325388131 or vedantsawant208@gmail.com. The project ID is PRE203 with the name Enhancing Digital Certificate Security through Blockchain and Smart Contracts and the client's name is Sameer Ramesh Waybhase.
+
+Thank you for using our Enhancing Digital Certificate Security through Blockchain and Smart Contracts., and we hope it meets your expectations.
+
+Best regards,
+OnBoard Services - Mr. Vedant A. Sawant
++91 9325388131
